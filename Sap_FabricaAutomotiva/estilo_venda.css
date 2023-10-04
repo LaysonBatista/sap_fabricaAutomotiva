@@ -1,0 +1,39 @@
+.divMain{
+    position: absolute;
+    bottom:150px;
+    left: 370px;
+    background-color: white;
+    height: 450px;
+    width: 750px;
+    border-width:2px;
+    border-color: black;
+    border-style: solid;
+    
+}
+
+.divTop{
+   
+    bottom:399px;
+    left: 198px;
+    padding-left: 200px;
+    background-color: rgb(206, 206, 206);
+    height: 50px;
+    width: 550px;
+    border-width:2px;
+}
+
+.btn{
+    border-radius: 50px;
+    background-color: #7814FF;
+    margin-left: 300px;
+    color: white;
+    margin-top: 250px;
+    width: 140px;
+    height: 30px;
+}
+
+text{
+    margin-left: 50px;
+    color: #7814FF;
+}
+

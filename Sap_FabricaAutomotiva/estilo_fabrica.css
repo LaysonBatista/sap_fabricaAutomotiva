@@ -1,0 +1,160 @@
+.divMain{
+    height: 1000px;
+    width: 1300px;
+    background-color: #b0afaf;
+}
+
+.div1{
+    position: absolute;
+    bottom:270px;
+    left: 100px;
+    background-color: white;
+    height: 280px;
+    width: 200px;
+    border: 2px;
+    border-width:2px;
+    border-color: black;
+    border-style: solid;
+    position: absolute;
+    z-index: 15;
+}
+
+.div2{
+    position: absolute;
+    bottom:380px;
+    left: 400px;
+    background-color: white;
+    height: 100px;
+    width: 70px;
+    border: 2px;
+    border-width:2px;
+    border-color: black;
+    border-style: solid;
+    z-index: 14;
+}
+
+.div3{
+    position: absolute;
+    bottom:100px;
+    left: 150px;
+    background-color: white;
+    height: 400px;
+    width: 350px;
+    border-width:2px;
+    border-color: black;
+    border-style: solid;
+    z-index: 13;
+}
+
+.div4{
+    position: absolute;
+    bottom:490px;
+    left: 250px;
+    background-color: white;
+    height: 120px;
+    width: 200px;
+    border-width:2px;
+    border-color: black;
+    border-style: solid;
+    z-index: 16;
+}
+
+.div5{
+    position: absolute;
+    bottom:100px;
+    left: 150px;
+    background-color: white;
+    height: 450px;
+    width: 750px;
+    border-width:2px;
+    border-color: black;
+    border-style: solid;
+    z-index: 12;
+}
+
+.div6{
+    position: absolute;
+    bottom:820px;
+    left: 1000px;
+    background-color: white;
+    height: 80px;
+    width: 130px;
+    border-width:2px;
+    border-color: black;
+    border-style: solid;
+    z-index: 10;
+}
+
+.div7{
+    position: absolute;
+    bottom:550px;
+    left: 450px;
+    background-color: white;
+    height: 100px;
+    width: 180px;
+    border-width:2px;
+    border-color: black;
+    border-style: solid;
+    z-index: 9;
+}
+
+.div8{
+    position: absolute;
+    bottom:690px;
+    left: 360px;
+    background-color: white;
+    height: 100px;
+    width: 180px;
+    border-width:2px;
+    border-color: black;
+    border-style: solid;
+    z-index: 2;
+}
+
+.div9{
+    position: absolute;
+    bottom:680px;
+    left: 540px;
+    background-color: white;
+    height: 120px;
+    width: 200px;
+    border-width:2px;
+    border-color: black;
+    border-style: solid;
+    z-index: 1;
+}
+
+.div10{
+    position: absolute;
+    bottom:200px;
+    left: 780px;
+    background-color: white;
+    height: 700px;
+    width: 350px;
+    border-width:2px;
+    border-color: black;
+    border-style: solid;
+    z-index: 11;
+}
+
+.div11{
+    position: absolute;
+    bottom:820px;
+    left: 500px;
+    background-color: white;
+    height: 100px;
+    width: 70px;
+    border: 2px;
+    border-width:2px;
+    border-color: black;
+    border-style: solid;
+    z-index: 0;
+}
+
+.azul{
+    background-color: #0000FF;
+}
+
+.branco{
+    background-color: #FFFFFF;
+}

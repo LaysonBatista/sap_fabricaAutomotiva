@@ -1,0 +1,8 @@
+.divMain{
+    position: absolute;
+    background-color: coral;
+    left: 500px;
+    bottom: 500px;
+    border: 1px;
+    border-style: solid;
+}
